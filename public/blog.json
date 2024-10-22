@@ -1,0 +1,53 @@
+
+[
+    {
+      "id": 1,
+      "cover": "https://i.postimg.cc/2jt3rGW3/4.jpg",
+      "title": "The Mystery of the Missing Cat",
+      "author": "John Doe",
+      "author_img": "https://i.postimg.cc/3RKD6Fq9/boy1.png",
+      "posted_date": "2024-10-21",
+      "reading_time": 5,
+      "hashtags": ["mystery", "cat", "detective"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/CMm99rWn/1.jpg",
+      "title": "A Day in the Life of a Robot",
+      "author": "Jane Smith",
+      "author_img": "https://i.postimg.cc/3RKD6Fq9/boy1.png",
+      "posted_date": "2024-10-20",
+      "reading_time": 7,
+      "hashtags": ["robot", "future", "technology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/CMm99rWn/1.jpg",
+      "title": "The Adventures of a Curious Fox",
+      "author": "David Lee",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-10-19",
+      "reading_time": 6,
+      "hashtags": ["fox", "adventure", "forest"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.postimg.cc/kMSPRvZ2/2.png",
+      "title": "The Secret Life of Bees",
+      "author": "Emily Brown",
+      "author_img": "https://i.postimg.cc/3RKD6Fq9/boy1.png",
+      "posted_date": "2024-10-18",
+      "reading_time": 8,
+      "hashtags": ["bee", "nature", "science"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.postimg.cc/CMm99rWn/1.jpg",
+      "title": "A Journey to the Center of the Earth",
+      "author": "Jules Verne",
+      "author_img": "https://i.postimg.cc/3RKD6Fq9/boy1.png",
+      "posted_date": "2024-10-17",
+      "reading_time": 10,
+      "hashtags": ["adventure", "earth", "exploration"]
+    }
+  ]
